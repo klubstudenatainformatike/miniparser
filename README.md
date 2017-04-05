@@ -7,4 +7,4 @@ Kao ulaz uzima izraz za irazunavanje u infixnom obliku
  - promenljive
  - koren, sinus, kosinus
  - while petlja da stalno uzima input
- -  **... **
+ 
